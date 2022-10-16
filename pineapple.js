@@ -1,1 +1,1 @@
-let v="waiting for u man"
+let v="waiting for u man  come fast"
